@@ -34,7 +34,7 @@ gcc AES.c -o AES
 ```
 
 ## Ejemplo de uso de cifrado y descifrado.
-
+```
 --- MENU AES-128 ---
         1. Cifrar mensaje
         2. Descifrar mensaje
@@ -66,3 +66,4 @@ Descifrado finalizado con éxito.
 Seleccione una opción: 3
 
 Gracias, vuelva pronto.
+```
